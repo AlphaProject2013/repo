@@ -1,0 +1,299 @@
+1488401125328	geckodriver	INFO	Listening on 127.0.0.1:38685
+1488402297422	geckodriver	INFO	Listening on 127.0.0.1:40940
+1488402298531	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KLeOype9GLAX
+1488402298532	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488402298533	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56619
+
+(firefox:15014): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15014): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15014): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15014): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488402299225	Marionette	INFO	Listening on port 56619
+1488402300999	geckodriver	INFO	Listening on 127.0.0.1:44537
+1488402302117	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.H5zSKDg4g5hS
+1488402302118	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488402302119	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46926
+
+(firefox:15075): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15075): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15075): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15075): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488402302872	Marionette	INFO	Listening on port 46926
+1488402370716	geckodriver	INFO	Listening on 127.0.0.1:49795
+1488402371825	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xs2k88z4Wvtk
+1488402371825	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488402371826	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41115
+
+(firefox:15144): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15144): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15144): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15144): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488402372481	Marionette	INFO	Listening on port 41115
+1488402374092	geckodriver	INFO	Listening on 127.0.0.1:49979
+1488402375207	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.bUrtVA9crKtk
+1488402375208	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488402375209	geckodriver::marionette	INFO	Connecting to Marionette on localhost:47778
+
+(firefox:15205): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15205): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15205): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15205): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488402375951	Marionette	INFO	Listening on port 47778
+1488402449046	geckodriver	INFO	Listening on 127.0.0.1:47753
+1488402450159	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2I0eP5Fo8Kns
+1488402450159	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488402450160	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41449
+
+(firefox:15269): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15269): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15269): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15269): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488402450881	Marionette	INFO	Listening on port 41449
+1488402452738	geckodriver	INFO	Listening on 127.0.0.1:57793
+1488402453850	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.z1QVubipt7El
+1488402453850	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488402453851	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53995
+
+(firefox:15330): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15330): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15330): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15330): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488402454602	Marionette	INFO	Listening on port 53995
+1488402497943	geckodriver	INFO	Listening on 127.0.0.1:44712
+1488402499053	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.hqhECUl6yI78
+1488402499054	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488402499055	geckodriver::marionette	INFO	Connecting to Marionette on localhost:48748
+
+(firefox:15394): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15394): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15394): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15394): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488402499717	Marionette	INFO	Listening on port 48748
+1488402501374	geckodriver	INFO	Listening on 127.0.0.1:33566
+1488402502480	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6RCPN2XY2bEn
+1488402502481	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488402502482	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57714
+
+(firefox:15455): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15455): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15455): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15455): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488402503282	Marionette	INFO	Listening on port 57714
+1488402510704	geckodriver	INFO	Listening on 127.0.0.1:54047
+1488402511814	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.yOaz5oS8TDOd
+1488402511817	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488402511818	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51108
+
+(firefox:15517): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15517): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15517): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15517): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488402512543	Marionette	INFO	Listening on port 51108
+1488402514221	geckodriver	INFO	Listening on 127.0.0.1:46881
+1488402515337	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.hK7LntYkCbLz
+1488402515337	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488402515339	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42521
+
+(firefox:15582): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15582): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15582): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15582): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488402516137	Marionette	INFO	Listening on port 42521
+1488402615264	geckodriver	INFO	Listening on 127.0.0.1:42250
+1488402616370	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.WZFyldpIHVBh
+1488402616371	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488402616372	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33689
+
+(firefox:15656): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15656): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15656): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15656): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488402617035	Marionette	INFO	Listening on port 33689
+1488402618766	geckodriver	INFO	Listening on 127.0.0.1:39372
+1488402619877	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jCyROpOU6EbK
+1488402619878	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488402619879	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59078
+
+(firefox:15717): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15717): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15717): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15717): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488402620599	Marionette	INFO	Listening on port 59078
+1488402934803	geckodriver	INFO	Listening on 127.0.0.1:37173
+1488402935908	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ygxOkMeYFqbe
+1488402935909	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488402935910	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51365
+
+(firefox:15814): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15814): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15814): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15814): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488402936568	Marionette	INFO	Listening on port 51365
+1488402938212	geckodriver	INFO	Listening on 127.0.0.1:48533
+1488402939311	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.lEaBYLqE3wtw
+1488402939311	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488402939312	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46919
+
+(firefox:15875): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15875): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15875): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15875): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488402940020	Marionette	INFO	Listening on port 46919
+1488409481334	geckodriver	INFO	Listening on 127.0.0.1:39073
+1488409482442	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.5fyH6iGpvGUX
+1488409482442	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488409482444	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54471
+
+(firefox:18212): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18212): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18212): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18212): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488409483174	Marionette	INFO	Listening on port 54471
+1488409484847	geckodriver	INFO	Listening on 127.0.0.1:55579
+1488409485954	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GdOwPU1L2mzL
+1488409485955	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488409485956	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46731
+
+(firefox:18273): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18273): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18273): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18273): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488409486705	Marionette	INFO	Listening on port 46731
+1488409548181	geckodriver	INFO	Listening on 127.0.0.1:53380
+1488409549290	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kdZgblCBictK
+1488409549291	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488409549292	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40425
+
+(firefox:18340): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18340): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18340): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18340): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488409549928	Marionette	INFO	Listening on port 40425
+1488409551550	geckodriver	INFO	Listening on 127.0.0.1:50770
+1488409552653	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.AFFisEIeOfDd
+1488409552653	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488409552654	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60887
+
+(firefox:18401): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18401): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18401): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18401): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488409553351	Marionette	INFO	Listening on port 60887
+1488410514472	geckodriver	INFO	Listening on 127.0.0.1:47464
+1488410515577	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.iJ5uZ9gGDBuq
+1488410515577	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488410515578	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43235
+
+(firefox:18542): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18542): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18542): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18542): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488410516255	Marionette	INFO	Listening on port 43235
+1488410518076	geckodriver	INFO	Listening on 127.0.0.1:58732
+1488410519189	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ZQBklGzW4KXG
+1488410519189	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488410519190	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58201
+
+(firefox:18604): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18604): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18604): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18604): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488410519924	Marionette	INFO	Listening on port 58201
+1488410676095	geckodriver	INFO	Listening on 127.0.0.1:42102
+1488410677204	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.NBA1Uy63skiJ
+1488410677205	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488410677206	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46895
+
+(firefox:18705): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18705): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18705): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18705): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488410677863	Marionette	INFO	Listening on port 46895
+1488410679569	geckodriver	INFO	Listening on 127.0.0.1:52540
+1488410680678	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.BvsnD7hAJtgm
+1488410680678	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1488410680679	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51425
+
+(firefox:18767): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18767): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18767): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18767): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1488410681459	Marionette	INFO	Listening on port 51425
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
